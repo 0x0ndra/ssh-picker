@@ -56,3 +56,7 @@ Host my-server
 ```
 
 The picker reads this file on every open, so any manual edits are reflected immediately.
+
+## License
+
+[MIT](LICENSE)
